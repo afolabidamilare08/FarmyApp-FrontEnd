@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/FarmyApp-FrontEnd/static/css/main.d2b5e158.css",
+    "main.js": "/FarmyApp-FrontEnd/static/js/main.2864430c.js",
+    "static/js/787.a42790ac.chunk.js": "/FarmyApp-FrontEnd/static/js/787.a42790ac.chunk.js",
+    "static/media/bgimage.jpg": "/FarmyApp-FrontEnd/static/media/bgimage.e623ba06d90692c8e82b.jpg",
+    "static/media/Cairo-VariableFont_wght.ttf": "/FarmyApp-FrontEnd/static/media/Cairo-VariableFont_wght.d3290da75da77b213eb0.ttf",
+    "static/media/logo_white.png": "/FarmyApp-FrontEnd/static/media/logo_white.f4aac912581dad7f3bae.png",
+    "static/media/ruk.jpeg": "/FarmyApp-FrontEnd/static/media/ruk.d936a8415a41af4b013d.jpeg",
+    "static/media/jen.jpeg": "/FarmyApp-FrontEnd/static/media/jen.c8f8fc0cb1da5a0df50e.jpeg",
+    "static/media/confo2.jpeg": "/FarmyApp-FrontEnd/static/media/confo2.8aedd08ee377264de26c.jpeg",
+    "static/media/store.png": "/FarmyApp-FrontEnd/static/media/store.9b546678d139be1e0191.png",
+    "static/media/secure-payment.png": "/FarmyApp-FrontEnd/static/media/secure-payment.33ec8dc7269de8eaf6ca.png",
+    "static/media/market.png": "/FarmyApp-FrontEnd/static/media/market.fc71dba7f98f4f26944a.png",
+    "static/media/shipped.png": "/FarmyApp-FrontEnd/static/media/shipped.d6f764205b7c156a7490.png",
+    "index.html": "/FarmyApp-FrontEnd/index.html",
+    "main.d2b5e158.css.map": "/FarmyApp-FrontEnd/static/css/main.d2b5e158.css.map",
+    "main.2864430c.js.map": "/FarmyApp-FrontEnd/static/js/main.2864430c.js.map",
+    "787.a42790ac.chunk.js.map": "/FarmyApp-FrontEnd/static/js/787.a42790ac.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d2b5e158.css",
+    "static/js/main.2864430c.js"
+  ]
+}
